@@ -1,6 +1,20 @@
 Respuestas a las preguntas de la práctica 3
-1.- ¿Cuál es el propósito de trabajar con mútliples ramas?
-Que en cada una de las distintas ramas se pueda trabajar independiente-
-mente en distintas funcionalidades para finalmente mezclar todo lo
-trabajado en las distintas ramas.
+1)Que en cada una de las distintas ramas se pueda trabajar independientemente en distintas funcionalidades para finalmente mezclar todo lo trabajado en las distintas ramas.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3) Git intenta traer todos los cambios y después aplica nuestras modificaciones encima, en lugar de hacer un merge desde el punto en el que estábamos. Mantiene un historial de commits un poco más limpia.
