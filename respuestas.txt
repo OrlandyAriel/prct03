@@ -1,1 +1,6 @@
 Respuestas a las preguntas de la práctica 3
+1.- ¿Cuál es el propósito de trabajar con mútliples ramas?
+Que en cada una de las distintas ramas se pueda trabajar independiente-
+mente en distintas funcionalidades para finalmente mezclar todo lo
+trabajado en las distintas ramas.
+
