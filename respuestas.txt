@@ -1,6 +1,9 @@
 Respuestas a las preguntas de la práctica 3
 1)Que en cada una de las distintas ramas se pueda trabajar independientemente en distintas funcionalidades para finalmente mezclar todo lo trabajado en las distintas ramas.
 
+2)Es la unión de ramas, es decir, reproduce los cambios que se guarden en nuestra rama de trabajo y los coloca en la rama con la que se decida unir.
+
+
 
 
 
